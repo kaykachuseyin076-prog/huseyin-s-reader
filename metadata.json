@@ -1,0 +1,6 @@
+{
+  "name": "Reader",
+  "description": "Modern native PDF and EPUB book reader with clean library and reading progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
